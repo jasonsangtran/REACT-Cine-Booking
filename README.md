@@ -1,9 +1,9 @@
-# Features
+# Function
 - CRUD users, movies
 - Search movie and ticket
 - Login, register, and book tickets
 - Responsive
-# live demo
-- View at ...
-# Try Admin
+# Demo
+- View at https://react-cine-booking.vercel.app/
+# Try 
 - Username: admintest, password: admintest
